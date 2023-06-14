@@ -1,0 +1,26 @@
+body {
+    background: #000;
+}
+
+.glass {
+    background: rgba(69, 5, 5, 0.619);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    border: 1px solid rgba(202, 9, 9, 0.3);
+}
+
+.glass1 {
+    background: rgba(247, 7, 7, 0.783);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    border: 1px solid rgba(202, 9, 9, 0.3);
+}
+
+
+.row {
+    height: 25vh;
+}
